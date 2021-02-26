@@ -1,5 +1,3 @@
-// Single-responsibility principle
-
 /*
 
 	A class should only have a single responsibility, that is,

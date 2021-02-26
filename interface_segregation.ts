@@ -1,5 +1,3 @@
-// Interface segregation principle
-
 /*
 
 	Many client-specific interfaces are better

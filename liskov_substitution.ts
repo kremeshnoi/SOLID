@@ -1,5 +1,3 @@
-// Liskov substitution principle
-
 /*
 
 	Objects in a program should be replaceable with instances

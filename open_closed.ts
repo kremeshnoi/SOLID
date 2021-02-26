@@ -1,5 +1,3 @@
-// Open–closed principle
-
 /*
 
 	Software entities ... should be open for extension,
